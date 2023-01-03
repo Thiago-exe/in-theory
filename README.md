@@ -2,11 +2,10 @@
 
 - Design Patterns
  > Create a repository with implementations of all design patterns
-- Ux
+- UX
 - UI
-- Agile Methodologies
-- 
-
-1. Create a repository with implementations of all data structures
-2. Create a repository with implementations of all ordination and search algorithms
+- agile Methodologies
+- data structures
+- search algorithms
+- sorting algorithms
 
