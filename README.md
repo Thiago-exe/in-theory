@@ -9,4 +9,4 @@
 - search algorithms
 - sorting algorithms
 - Excel (yes, it's turing complete.)
-- Powerpoint (you guess, it's turing complete)
+- Powerpoint ((https://www.youtube.com/watch?v=uNjxe8ShM-8))
